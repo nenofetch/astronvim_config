@@ -5,6 +5,7 @@
 ---@type LazySpec
 return {
   "AstroNvim/astrocommunity",
+  -- language pack section
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.dart" },
   { import = "astrocommunity.pack.php" },
@@ -12,7 +13,9 @@ return {
   { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.prisma" },
-  { import = "astrocommunity.pack.go" },
+  -- { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.vue" },
+  -- media pack
+  { import = "astrocommunity.media.codesnap-nvim" },
   -- import/override with your plugins folder
 }
