@@ -15,6 +15,8 @@ return {
   { import = "astrocommunity.pack.prisma" },
   -- { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.vue" },
+  { import = "astrocommunity.pack.svelte" },
+  { import = "astrocommunity.pack.laravel" },
   -- media pack
   { import = "astrocommunity.media.codesnap-nvim" },
   -- import/override with your plugins folder
