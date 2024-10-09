@@ -22,4 +22,5 @@ return {
   -- media pack
   { import = "astrocommunity.media.codesnap-nvim" },
   -- import/override with your plugins folder
+  { import = "astrocommunity.docker.lazydocker" },
 }
