@@ -35,4 +35,8 @@ return {
   { import = "astrocommunity.docker.lazydocker" },
   -- media section
   { import = "astrocommunity.media.codesnap-nvim" },
+  -- recipes section
+  { import = "astrocommunity.recipes.ai" },
+  -- game section
+  { import = "astrocommunity.game.leetcode-nvim" },
 }
