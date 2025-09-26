@@ -28,7 +28,6 @@ return {
   { import = "astrocommunity.pack.sql" },
   { import = "astrocommunity.pack.ansible" },
   { import = "astrocommunity.pack.oxlint" },
-  { import = "astrocommnutiy.pack.prettier" },
   -- media pack
   { import = "astrocommunity.media.codesnap-nvim" },
   -- import/override with your plugins folder
